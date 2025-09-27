@@ -50,11 +50,3 @@ I'm a passionate **DevOps Engineer** with expertise in **Kubernetes orchestratio
   <img src="https://github-readme-stats.vercel.app/api?username=akshatsinha007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsinha007&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinha007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <i>⭐ If you find my repositories helpful, don't forget to star them! ⭐</i>
-</div>
