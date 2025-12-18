@@ -1,7 +1,7 @@
 # Hi there, I'm Akshat Sinha 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinhaakshat)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshatsinha720)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.akshatsinha.dev)
 [![Projects](https://img.shields.io/badge/Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrivastava-afk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatsinha720@gmail.com)
 
